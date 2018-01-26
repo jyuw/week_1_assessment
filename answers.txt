@@ -1,0 +1,12 @@
+var = "variable"
+num = 44
+
+Question 4: Rspec
+How do you initialize rspec in a folder?
+run rspec --init on terminal
+delete comments from spec_helper.rb
+add --format documention and --format color to .rspec
+
+We would ordinarily have written our tests first, then written code to make them pass. Why?
+to make sure that each step is passing individually so we know which part is wrong
+when we add something new 
